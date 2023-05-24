@@ -1,3 +1,8 @@
 html {
     background-color: aquamarine;
 }
+
+img {
+    height: 300px;
+    width: 400px;
+}

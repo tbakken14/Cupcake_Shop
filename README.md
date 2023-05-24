@@ -1,12 +1,12 @@
-####Cupcake Website####
+#### Cupcake Website ####
 
 This is a mock website for a fictional cupcake shop
 
-###Technologies###
+### Technologies ###
 
-*HTML
-*CSS
+* HTML
+* CSS
 
-###Authors###
+### Authors ###
 
 Lindsay Warr, Jase Grable, Thomas Bakken
